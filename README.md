@@ -1,5 +1,5 @@
 # Reframe-Visualization
-Unofficial implementation of  Reframe Visualization in Keras / Scikit-learn
+Unofficial implementation of  Reframe Visualization in Keras / Scikit-learn. The original was implemented with the Perfume movie, but we reimplemented with [the movie of Moranbong Band](https://www.youtube.com/channel/UCOjDX4zlqAp4JSelt-p3Eqw)(for copyright reason).
 
 # Summary
 ![](https://github.com/koshian2/Reframe-Visualization/blob/master/images/merged.jpg)
